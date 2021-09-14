@@ -1,2 +1,4 @@
 GEGG: Hola
 GEGG: Como estan?
+GGS: Bien, ¿Y ustedes?
+GGS: ¿Cómo han estado?
